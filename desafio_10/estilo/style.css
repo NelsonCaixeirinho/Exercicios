@@ -5,7 +5,7 @@ body {
     background-color: #6da881;
     margin: auto;
 }
-
+/*
 header {
     background-image: linear-gradient(to top, #186331, #09af4e6e);
     color: white;  
@@ -46,3 +46,11 @@ nav > a {
     font-weight: bold;
     margin-right: 40px;            
 }
+
+img {
+    background-color:  white;
+    height: auto;
+    width: 600px;
+    margin: 30px auto;
+}
+*/
